@@ -1,0 +1,22 @@
+[
+    {
+        "start": "A",
+        "layout": [
+            "CCACC",
+            "AABBC",
+            "XCBBB",
+            "AAAAB",
+            "AABBC"
+        ]
+    },
+    {
+        "start": "B",
+        "layout": [
+            "XCBBB",
+            "CCACC",
+            "AABBC",
+            "AABBC",
+            "AAABB"
+        ]
+    }
+]
